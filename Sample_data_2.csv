@@ -1,0 +1,10 @@
+area,date,waste_type,weight
+Downtown,2024-01-15,Biodegradable,145.5
+Downtown,2024-01-17,Sanitary Waste,67.4
+Downtown,2024-01-18,Saw Dust,89.2
+Suburb-A,2024-01-15,Bulky Waste,120.7
+Suburb-A,2024-01-17,C&D Waste,310.5
+Industrial-Zone,2024-01-15,Industrial Waste,890.2
+Industrial-Zone,2024-01-20,Wood Trank,205.1
+Suburb-B,2024-01-16,Slaughter House Waste,156.8
+Downtown,2024-01-21,Mesuring,45.8
