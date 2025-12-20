@@ -4,6 +4,7 @@
 - Kuruwitaarachchi K.A.D.T.T. - EG/2020/4038
 - Madhumali W.H. - EG/2020/4050
 - Naveendi H.T. - EG/2020/4087
+- Dewapura K.K - EG/2020/4338
 
 ## Project Title
 Smart Waste Management Analyzer in Haskell
